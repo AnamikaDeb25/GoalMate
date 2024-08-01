@@ -1,0 +1,1 @@
+export const EP = 'https://dummyjson.com/users';
