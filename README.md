@@ -10,7 +10,16 @@ Goal Mate is a React Native application designed to help users set, track, and a
 - **Add Goals**: Users can create new goals by providing a title, description, and deadline.
 - **Track Progress**: Users can update the status of their goals and mark them as completed.
 - **Profile Management**: Users can update their personal information and view their goal statistics.
-
+  
+## Project Structure
+/src
+  /components - Reusable components
+  /screens - Screen components (Login, SignUp, Home, GoalList, Profile)
+  /navigation - Navigation setup
+  /reduxtoolkit - Redux toolkit setup for state management
+  /api - For API call
+  /styles - For adding reusable custom styles
+/App.js - Entry point of the app
 
 ## Installation
 
@@ -45,3 +54,5 @@ Goal Mate is a React Native application designed to help users set, track, and a
 npm run android
 # or
 yarn android
+
+
