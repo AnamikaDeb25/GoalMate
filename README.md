@@ -1,14 +1,15 @@
-# Project Name
+# Goal Mate
 
 ## Overview
 
-Brief description of your project. Explain what the app does, its main features, and its purpose.
+Goal Mate is a React Native application designed to help users set, track, and achieve their personal goals. Users can sign up for an account, log in, add new goals, and monitor their progress over time. The app aims to provide a simple and intuitive interface for managing goals and staying motivated.
 
 ## Features
 
-- **Feature 1**: Login / Signup
-- **Feature 2**: Add your Daily Goals
-- **Feature 3**: Track your Daily Goals
+- **User Authentication**: Secure sign-up and log-in functionality using phone number and password.
+- **Add Goals**: Users can create new goals by providing a title, description, and deadline.
+- **Track Progress**: Users can update the status of their goals and mark them as completed.
+- **Profile Management**: Users can update their personal information and view their goal statistics.
 
 
 ## Installation
@@ -16,8 +17,8 @@ Brief description of your project. Explain what the app does, its main features,
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your_username/your_project_name.git
-    cd your_project_name
+    git clone [https://github.com/your_username/your_project_name.git](https://github.com/AnamikaDeb25/GoalMate.git)
+    cd GoalMate
     ```
 
 2. **Install dependencies:**
